@@ -1,15 +1,6 @@
 Netflix Clone
 This project is a Netflix clone built with HTML and CSS. It replicates the landing page of Netflix, showcasing various features such as streaming on multiple devices, downloading content, and creating profiles for kids.
 
-Table of Contents:
-
-Project Overview
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
 Project Overview
 The Netflix Clone project aims to create a static front-end replica of the Netflix landing page. This project demonstrates the use of HTML for structure and CSS for styling.
 
