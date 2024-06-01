@@ -2,6 +2,7 @@ Netflix Clone
 This project is a Netflix clone built with HTML and CSS. It replicates the landing page of Netflix, showcasing various features such as streaming on multiple devices, downloading content, and creating profiles for kids.
 
 Table of Contents:
+
 Project Overview
 Features
 Technologies Used
@@ -13,11 +14,13 @@ Project Overview
 The Netflix Clone project aims to create a static front-end replica of the Netflix landing page. This project demonstrates the use of HTML for structure and CSS for styling.
 
 Features:
+
 Responsive Design: The layout adjusts seamlessly across various device sizes.
 Navigation Bar: Includes Netflix logo, language selection, and sign-in button.
 Hero Section: Highlights the main features of Netflix, such as unlimited movies and TV shows, and an email subscription form.
 
 Multiple Sections:
+
 TV Enjoyment: Information about watching on TV.
 Offline Downloads: Details about downloading shows for offline viewing.
 Watch Everywhere: Information on streaming on various devices.
@@ -26,6 +29,7 @@ FAQ Section: Common questions about Netflix with expandable answers.
 Footer: Contains links to various resources and contact information.
 
 Technologies Used:
+
 HTML5: For structuring the web page content.
 CSS3: For styling and layout, including responsive design.
 Google Fonts: Utilizes the "Martel Sans" and "Poppins" fonts for typography.
